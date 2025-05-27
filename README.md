@@ -1,5 +1,7 @@
 # BMI Calculator MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@jongin1004/mbi-mcp-server)](https://smithery.ai/server/@jongin1004/bmi-mcp-server)
+
 BMI(체질량지수)를 계산하는 MCP 서버입니다.
 
 ## 기능
@@ -9,6 +11,15 @@ BMI(체질량지수)를 계산하는 MCP 서버입니다.
 
 ## 설치 방법
 
+### Installing via Smithery
+
+To install bmi-mcp-server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@jongin1004/bmi-mcp-server):
+
+```bash
+npx -y @smithery/cli install @jongin1004/bmi-mcp-server --client claude
+```
+
+### Manual Installation
 ```bash
 # 의존성 설치
 npm install
