@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jongin1004-mbi-mcp-server-badge.png)](https://mseep.ai/app/jongin1004-mbi-mcp-server)
+
 # BMI Calculator MCP Server
 
 BMI(체질량지수)를 계산하는 MCP 서버입니다.
